@@ -1,6 +1,6 @@
 # C-S-Box-Python-Project
 
-This Project is based upon Python's Socket Programmingand can work as Chat Box in Queue Format.
+This Project is based upon Python's Socket Programming and can work as Chat Box in Queue Format.
 
 STEPS TO EXECUTE:
 ------------------
