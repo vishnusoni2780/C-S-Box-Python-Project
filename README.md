@@ -12,7 +12,7 @@ STEPS TO EXECUTE:
 
 ->  start texting/sending texts first from schat.py running terminal and then from another one.
 
-    text one by one as and you will see the pattern.
+    text one by one and you will see the pattern.
    
 THANK YOU !
 -----------
